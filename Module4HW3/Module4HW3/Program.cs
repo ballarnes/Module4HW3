@@ -6,6 +6,8 @@ namespace Module4HW3
     {
         private static void Main(string[] args)
         {
+            var starter = new Starter();
+            starter.Run();
         }
     }
 }
